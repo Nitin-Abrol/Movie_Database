@@ -12,4 +12,4 @@
 
 The Output of the code snippet is attached below -
 
-<img width="935" alt="Screenshot 2022-04-13 at 1 51 42 PM" src="https://user-images.githubusercontent.com/72847636/163132834-78ac1cb8-f287-4c76-87ac-1506d1fad7a1.png">
+<img width="1117" alt="Screenshot 2022-04-13 at 2 28 42 PM" src="https://user-images.githubusercontent.com/72847636/163140104-60ef27d4-80dd-4484-91da-4f64b588a068.png">
